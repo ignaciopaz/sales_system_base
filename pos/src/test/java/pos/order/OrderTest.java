@@ -1,16 +1,16 @@
 package pos.order;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.*;
 
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
+import org.junit.Before;
+import org.junit.Test;
 
 public class OrderTest {
 	private Order order;
 	private Product productPrice1;
 	private Product productPrice0p5;
 
-	@BeforeEach public void beforeEach() {
+	@Before public void beforeEach() {
 		//Creates a clean order to use in each test
 		order = new Order();
 		productPrice1 = new Product("Mirror", Double.valueOf(1));

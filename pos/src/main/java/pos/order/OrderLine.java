@@ -22,6 +22,4 @@ public class OrderLine {
 		return product.getPrice() * getQty();
 	}
 
-	
-
 }

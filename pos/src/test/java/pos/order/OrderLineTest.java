@@ -1,17 +1,14 @@
 package pos.order;
 
-import static org.junit.Assert.assertEquals;
-
-import org.junit.BeforeClass;
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
+import static org.junit.Assert.*;
+import org.junit.Before;
+import org.junit.Test;
 
 public class OrderLineTest {
 	private Product productPrice1;
 	private Product productPrice0p5;
 	
-	@BeforeEach public void beforeEach() {
+	@Before public void beforeEach() {
 		productPrice1 = new Product("Mirror", Double.valueOf(1));
 		productPrice0p5 = new Product("fork", Double.valueOf(0.5));
 	}
