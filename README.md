@@ -1,5 +1,5 @@
 # sales_system_base
-- Download Java and install JDK: https://www.oracle.com/java/technologies/javase-downloads.html
+- Download and install Java JDK: https://www.oracle.com/java/technologies/javase-downloads.html
 - Download and install Eclipse IDE: https://www.eclipse.org/downloads/
 - In Eclipse:
 	- Go to File>Import
