@@ -1,6 +1,6 @@
 # sales_system_base
-- Download Java JDK: https://www.oracle.com/java/technologies/javase-downloads.html
-- Download Eclipse IDE: https://www.eclipse.org/downloads/
+- Download Java and install JDK: https://www.oracle.com/java/technologies/javase-downloads.html
+- Download and install Eclipse IDE: https://www.eclipse.org/downloads/
 - In Eclipse:
 	- Go to File>Import
 	- Select Git>Projects from Git (with smart import)
