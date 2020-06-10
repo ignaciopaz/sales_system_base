@@ -7,7 +7,7 @@
 	<artifactId>pos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<name>pos</name>
+	<name>sales_system_base</name>
 	<description>Add project description here</description>
 
 	<properties>
@@ -27,17 +27,17 @@
 			</plugin>
 		</plugins>
 	</build>
+	
 	<dependencies>
 		<dependency>
 			<groupId>org.mockito</groupId>
 			<artifactId>mockito-core</artifactId>
-			<version>2.23.4</version>
-			<scope>test</scope>
+			<version>3.2.4</version>
 		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 			<version>4.12</version>
-		</dependency>
+		</dependency>		
 	</dependencies>
 </project>
