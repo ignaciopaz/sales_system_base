@@ -8,7 +8,6 @@ import static org.mockito.Mockito.*;
 
 import java.util.Currency;
 
-@RunWith(MockitoJUnitRunner.class)
 public class SaleTest {
 	
 	//This test will be used for Unit Test Example
