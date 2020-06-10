@@ -11,6 +11,7 @@ import java.util.Currency;
 @RunWith(MockitoJUnitRunner.class)
 public class SaleTest {
 	
+	//This test will be used for Unit Test Example
 	@Test public void testChange() {
 		// Complete the test code here with the following case:
 		// Arrange: Sale of 77
@@ -20,6 +21,8 @@ public class SaleTest {
 	
 	
 	/*
+	 * 
+	 //This code is useful for the Stub Example
 	@Test public void testTotalUSDPayUSDChangeUSD() {
 		Sale sale = new Sale(59D, Currency.getInstance("USD"));
 		Double result = sale.getChange(100, Currency.getInstance("USD"), Currency.getInstance("USD"));
