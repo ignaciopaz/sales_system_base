@@ -3,7 +3,6 @@ This is the project for: Test Driven Development (TDD) - Beginners Essentials co
 - Take my courses:
 	- https://www.skillshare.com/r/user/ignaciopaz?teacherRef=145958262
 	- https://www.udemy.com/user/ignacio-paz-2/
-Steps:
 - Download and install Java JDK: https://www.oracle.com/java/technologies/javase-downloads.html
 - Download and install Eclipse IDE: https://www.eclipse.org/downloads/
 - In Eclipse:
