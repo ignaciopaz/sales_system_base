@@ -1,4 +1,5 @@
 # sales_system_base
+This is the project for: Test Driven Development (TDD) - Beginners Essentials course
 - Download and install Java JDK: https://www.oracle.com/java/technologies/javase-downloads.html
 - Download and install Eclipse IDE: https://www.eclipse.org/downloads/
 - In Eclipse:
@@ -12,3 +13,6 @@
 	- Go to folder /src/test/java/ right click>Run As>Junit Test
 - Test should be green. Otherwise, check the configuration of eclipse and if JDK and junit are configured correctly in Eclipse.
 - Follow the steps of the examples in the course.
+- Take my courses:
+	- https://www.skillshare.com/r/user/ignaciopaz?teacherRef=145958262
+	- https://www.udemy.com/user/ignacio-paz-2/
