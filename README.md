@@ -1,8 +1,5 @@
 # sales_system_base
 This is the project for: Test Driven Development (TDD) - Beginners Essentials course
-- Take my courses:
-	- https://www.skillshare.com/r/user/ignaciopaz?teacherRef=145958262
-	- https://www.udemy.com/user/ignacio-paz-2/
 - Download and install Java JDK: https://www.oracle.com/java/technologies/javase-downloads.html
 - Download and install Eclipse IDE: https://www.eclipse.org/downloads/
 - In Eclipse:
